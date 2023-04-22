@@ -53,6 +53,10 @@ img {
   text-align: center;
 }
 
+.info_headline {
+  margin: .5em;
+}
+
 .button_container {
   text-align: center;
   display: flex;

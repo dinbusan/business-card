@@ -3,9 +3,9 @@ import React from "react";
 const Info = () => {
   return (
     <div className="info_container">
-      <h1>Deann Videtto</h1>
-      <h3>Junior Front End Developer</h3>
-      <h5>Amsterdam, The Netherlands</h5>
+      <h1 className="info_headline">Deann Videtto</h1>
+      <h3 className="info_headline">Junior Front End Developer</h3>
+      <h5 className="info_headline">Amsterdam, The Netherlands</h5>
       <div className="button_container">
         <a href="mailto:deann.videtto@gmail.com">
           <button className="email_button">
